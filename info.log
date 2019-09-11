@@ -1,0 +1,31 @@
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"A bookmark with id 9720224c-2b66-422a-be9b-44a6af683117 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"A bookmark with id d82cd6be-e76a-479b-896d-a2daf18984d1 created","level":"info"}
+{"message":"Get bookmark with id 5e6bfd00-afc3-4868-a9fe-60247f62db9f","level":"info"}
+{"message":"Cannot find a bookmark with id 5e6bfd00-afc3-4868-a9fe-60247f62db9f","level":"error"}
+{"message":"Get bookmark with id 5e6bfd00-afc3-4868-a9fe-60247f62db9f","level":"info"}
+{"message":"Get bookmark with id 60c8fff0-6839-4997-be6e-f5c27e90b4d5","level":"info"}
+{"message":"Get bookmark with id 818b5101-cd9f-4f4f-8b9a-37950012f1d2","level":"info"}
+{"message":"Cannot find a bookmark with id 818b5101-cd9f-4f4f-8b9a-37950012f1d2","level":"error"}
+{"message":"Get bookmark with id 818b5101-cd9f-4f4f-8b9a-37950012f1d2","level":"info"}
+{"message":"Get bookmark with id 45b765db-28e0-4065-a018-5ceacd84abd9","level":"info"}
+{"message":"Bookmark with id 45b765db-28e0-4065-a018-5ceacd84abd9 not found.","level":"error"}
+{"message":"Cannot find a bookmark with id 45b765db-28e0-4065-a018-5ceacd84abd9","level":"error"}
+{"message":"Get bookmark with id 45b765db-28e0-4065-a018-5ceacd84abd9","level":"info"}
+{"message":"Bookmark with id cbd22dab-8e39-4bf4-8c90-cce5fb7f42d9 deleted.","level":"info"}
+{"message":"Cannot find a bookmark with id cbd22dab-8e39-4bf4-8c90-cce5fb7f42d9","level":"error"}
+{"message":"Get bookmark with id cbd22dab-8e39-4bf4-8c90-cce5fb7f42d9","level":"info"}
+{"message":"Bookmark with id 161149d9-4824-415b-9a56-646c554d276b deleted.","level":"info"}
