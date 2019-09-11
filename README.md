@@ -1,6 +1,6 @@
 # Express Boilerplate!
 
-This is a bookmarks servers!
+This is a bookmarks server!
 
 ## Description
 This server lets user retrieve a list of all bookmarks that have ever created, 
@@ -9,8 +9,11 @@ It also allows user to post their favorite bookmark to the server as well as del
 
 ## Routes
 GET /bookmarks: list all bookmarks
+
 GET /bookmarks/:id : return a single bookmark 
+
 POST /bookmarks: add a new bookmark to the server
+
 DELETE /bookmarks/:id: delete a bookmark
 
 ## Scripts
