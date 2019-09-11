@@ -23,10 +23,10 @@ bookmarkRouter
             res.status(400)
                 .send('Invalid data')
         }
-        if(!description || description ===''){
+        if(description ===''){
             description = 'No description'
         }
-        if(!rating || rating== null){
+        if(rating== null){
             rating = 1;
         }
         //get an id for the bookmark
@@ -42,7 +42,7 @@ bookmarkRouter
         logger.info(`A bookmark with id ${id} created`)
         res.status(201)
             .location('http://localhost:8000/bookmarks/${id}')
-            .json({id})
+            .json({bookmark})
 
 
     })
