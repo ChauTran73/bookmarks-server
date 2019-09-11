@@ -10,11 +10,11 @@ It also allows user to post their favorite bookmark to the server as well as del
 ## Routes
 GET /bookmarks: list all bookmarks
 
-GET /bookmarks/:id : return a single bookmark 
+GET /bookmarks/id : return a single bookmark 
 
 POST /bookmarks: add a new bookmark to the server
 
-DELETE /bookmarks/:id: delete a bookmark
+DELETE /bookmarks/id: delete a bookmark
 
 ## Scripts
 

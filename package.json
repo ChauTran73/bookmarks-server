@@ -1,7 +1,7 @@
 {
-  "name": "express-boilerplate",
+  "name": "bookmarks-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "A server for retrieving all bookmarks, a single bookmark as well as posting and deletinig a single bookmark ",
   "main": "index.js",
   "scripts": {
     "test": "mocha --require test/setup.js",
@@ -11,7 +11,7 @@
     "deploy": "git push heroku master"
   },
   "keywords": [],
-  "author": "",
+  "author": "Chau Tran",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
